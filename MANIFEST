@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Crypt-PK-ECC-Schnorr.t
+lib/Crypt/PK/ECC/Schnorr.pm
